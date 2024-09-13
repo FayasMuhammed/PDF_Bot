@@ -1,0 +1,22 @@
+ 
+# Ignore environment variables file
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directory
+venv/
+.env/
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore IDE/editor specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.idea/
